@@ -17,6 +17,7 @@
 * Floating point if supported by CPU
 * Symbols
 * Arrays
+* Tail call optimization
 * But *no* macros (boo!)
 
 # Development features
