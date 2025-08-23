@@ -6,12 +6,13 @@
 * Lisp explicitly written for embedded devices
     * Arduino, Adafruit M0/M4, Micro:bit, ESP32, RISC-V, Teensy
     * Runs on 8 bit, 16 bit, & 32 bit processors
+    * Written in C
 * Open-source under an MIT License
 
 ![Cardputer (ulisp.com)](images/cardputerhome.jpg)
 
 # Language features
-* Mark-and-sweep arbage collection
+* Mark-and-sweep garbage collection
 * Strings
 * Integers
 * Floating point if supported by CPU
@@ -32,7 +33,7 @@
 These depend on the hardware target.
 
 * Graphics (TFT, OLED, LED)
-* SD Card / filesystem 
+* SD Card / filesystem
 * I2C
 * SPI
 * uLisp sensor library extensions
