@@ -6,7 +6,7 @@
 * Lisp explicitly written for embedded devices
     * Arduino, Adafruit M0/M4, Micro:bit, ESP32, RISC-V, Teensy
     * Runs on 8 bit, 16 bit, & 32 bit processors
-    * Written in C
+    * Written as an Arduio Sketch, port to C in process
 * Open-source under an MIT License
 
 ![Cardputer (ulisp.com)](images/cardputerhome.jpg)
